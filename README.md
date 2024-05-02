@@ -8,7 +8,7 @@
 
 # WHO?!
 
-I'm a 19-year-old student who just started my journey in Computer Engineering in 2024. Currently, I'm diving into the basics of C++ and nurturing a keen interest in cybersecurity.
+I'm a 19 aged Brazilian student who just started my journey in Computer Engineering in 2024. Currently, I'm diving into the basics of C++ and nurturing a keen interest in cybersecurity.
 
 ## About Me
 
