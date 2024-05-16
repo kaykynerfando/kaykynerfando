@@ -20,7 +20,7 @@ I'm a 19 aged Brazilian student who just started my journey in Computer Engineer
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaykynerfando&show_icons=true&theme=dark&title_color=5300b8&text_color=5300b8&hide_border=true&locale=en" alt="kaykynerfando" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pressentimentos&show_icons=true&theme=dark&title_color=5300b8&text_color=5300b8&hide_border=true&locale=en" alt="pressentimentos" /></p>
 
 
 
